@@ -42,8 +42,8 @@ BROADCAST_BATCH = int((os.getenv("BROADCAST_BATCH") or "2000").strip()) # fetch 
 # id bisa int (-100xxx) atau username "@channel"
 # =========================
 REQUIRED_CHANNELS = [
-    {"id": "-1002259022241", "name": "ASUPAN BRO Channel", "url": "https://t.me/asupanbrogw"},
-    {"id": "-1002206050599", "name": "KERETA PENUH WNT Channel", "url": "https://t.me/krtbanget"},
+    {"id": "-1002259022241", "name": "Sini kak", "url": "https://t.me/asupanbrogw"},
+    {"id": "-1002206050599", "name": "Sini kak", "url": "https://t.me/vidioviralindooo"},
     # maksimal 5 item
 ]
 
