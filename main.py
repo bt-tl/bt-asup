@@ -44,8 +44,8 @@ BROADCAST_BATCH = int((os.getenv("BROADCAST_BATCH") or "2000").strip()) # fetch 
 REQUIRED_CHANNELS = [
     {"id": "-1002259022241", "name": "Sini kak", "url": "https://t.me/asupanbrogw"},
     {"id": "-1002206050599", "name": "Sini kak", "url": "https://t.me/vidioviralindooo"},
-    {"id": "-1002268843879", "name": "HEPINI OFFICIAL", "url": "https://t.me/hepiniofc"},
-    {"id": "-1003692828104", "name": "Ruang Backup", "url": "https://t.me/hepini_ofcl"},
+    {"id": "-1002268843879", "name": "Sini kak", "url": "https://t.me/hepiniofc"},
+    {"id": "-1003692828104", "name": "Sini kak", "url": "https://t.me/hepini_ofcl"},
     # maksimal 5 item
 ]
 
